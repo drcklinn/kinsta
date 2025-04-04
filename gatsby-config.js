@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Hello World`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `http://drcklinn.netlib.re`,
   },
   plugins: [],
 }
